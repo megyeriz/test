@@ -1,5 +1,5 @@
 {
-  "name": "test-app-bname",
+  "name": "test-app-name",
   "version": "0.0.1",
   "description": "test-app-description",
   "main": "test-app-main",
@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "express": "latest",
-  }
-  "author": ""
+  },
+  "author": "test-app-author"
 }

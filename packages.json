@@ -1,0 +1,13 @@
+{
+  "name": "test-app-bname",
+  "version": "0.0.1",
+  "description": "test-app-description",
+  "main": "test-app-main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "latest",
+  }
+  "author": ""
+}
